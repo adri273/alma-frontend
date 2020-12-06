@@ -1,0 +1,26 @@
+/*cabecera tabla*/
+th span.MuiButtonBase-root {
+    font-weight: bold !important;
+}
+
+/*botones acciones tabla*/
+.MuiFab-root {
+    border-radius: 10px !important;
+    margin: 0 5px !important;
+}
+
+/*Mensaje cuando no hay pacientes*/
+.sin-pacientes {
+    background-color: #efefef;
+    padding: 50px;
+    width: 30%;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 10px;
+
+}
+
+/*Boton enlace*/
+a.enlace {
+    text-decoration: none;
+}

@@ -1,0 +1,10 @@
+ #nuevo_paciente form {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin: auto;
+  }
+  #nuevo_paciente form > div {
+    margin-bottom: 20px;
+  }
+  
